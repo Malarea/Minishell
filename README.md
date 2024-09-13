@@ -44,12 +44,4 @@ Here’s an example of a pipeline:
 $ ls -l | grep minishell | wc -l
 ```
 
-### Credits
-Developed as part of the École 42 curriculum.
-
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Let me know if you'd like any modifications!
