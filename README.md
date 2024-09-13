@@ -17,7 +17,7 @@
 Clone the repository and compile it:
 
 ```bash
-git clone https://github.com/your-username/minishell.git
+git clone https://github.com/Malarea/minishell.git
 cd minishell
 make
 ```
