@@ -42,6 +42,3 @@ Here’s an example of a pipeline:
 
 ```bash
 $ ls -l | grep minishell | wc -l
-```
-
-Let me know if you'd like any modifications!
